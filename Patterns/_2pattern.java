@@ -10,3 +10,10 @@ public class _2pattern {
     }
     
 }
+/* 
+
+* 
+* *
+* * *
+
+*/
