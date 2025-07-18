@@ -1,4 +1,4 @@
-package Recursion;
+
 public class _4reversecount{
     public static void printrev(int i, int n){
         if(n<i){

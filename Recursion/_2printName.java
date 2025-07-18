@@ -18,5 +18,11 @@ public class _2printName {
     public static void main(String[] args) {
         print();
     }
+    public static int getCount() {
+        return count;
+    }
+    public static void setCount(int count) {
+        _2printName.count = count;
+    }
     
 }
